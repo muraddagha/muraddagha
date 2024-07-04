@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# <p align="center">Feel free to check out my [gists](https://gist.github.com/elshanx) as well</p>
-
 <br/>
 
 <p align="center">
